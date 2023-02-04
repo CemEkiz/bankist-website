@@ -1,0 +1,24 @@
+{
+  "name": "bankist-website",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CemEkiz/bankist-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CemEkiz/bankist-website/issues"
+  },
+  "homepage": "https://github.com/CemEkiz/bankist-website#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
